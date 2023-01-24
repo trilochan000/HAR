@@ -1,0 +1,2 @@
+# HAR
+human activity recognition
